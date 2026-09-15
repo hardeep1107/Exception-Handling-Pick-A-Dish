@@ -20,6 +20,7 @@ menu_items = [
     "Chile Verde",
     "Swiss & Mushroom Burger",
     "Saag Paneer",
+    "Ukrainian Borsh"
 ]
 
 your_menu(menu_items)
